@@ -1,0 +1,9 @@
+langgraph
+langchain
+langchain-groq
+streamlit
+pandas
+matplotlib
+reportlab
+python-pptx
+python-dotenv
