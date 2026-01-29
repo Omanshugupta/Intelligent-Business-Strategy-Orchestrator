@@ -24,7 +24,7 @@ An AI-driven, MBA-style executive decision system that provides comprehensive bu
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/intelligent-business-strategy-orchestrator.git
+git clone https://github.com/Omanshugupta/Intelligent-Business-Strategy-Orchestrator
 cd intelligent-business-strategy-orchestrator
 ```
 
